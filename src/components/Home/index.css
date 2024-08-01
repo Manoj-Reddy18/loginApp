@@ -1,0 +1,9 @@
+.container {
+  padding: 20px;
+}
+
+.Sub_container {
+  background: linear-gradient(#2b2c49, #b5b9ff);
+  color: #ffffff;
+  text-align: center;
+}
